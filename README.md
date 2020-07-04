@@ -1,3 +1,3 @@
-# Stock-price-prediction-and-Forecasting-using-Apple-Stock-Exchange-using-LSTM
-
-Click on the ipynb notebook and everything related to LSTM is presented in that file.
+## Stock-price-prediction-and-Forecasting-using-Apple-Stock-Exchange-using-LSTM
++ TenforFlow 2.0 and Keras has been used
++ The jupyter notebook contains all the step-by-step implementation of the **Preprocessing** and **stacked LSTM's**. 
