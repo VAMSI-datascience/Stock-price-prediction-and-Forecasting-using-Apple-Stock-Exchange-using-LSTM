@@ -3,4 +3,7 @@
 
 + TenforFlow 2.0 and Keras has been used
 + The jupyter notebook contains all the step-by-step implementation of the **Preprocessing** and **stacked LSTM's**. 
+
++ **EDA** has been performed in the ipynb notebook.
 + Please do ⭐ the repository, if it helped you in anyway.
+
